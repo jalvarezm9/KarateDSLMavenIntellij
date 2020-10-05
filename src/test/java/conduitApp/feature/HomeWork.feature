@@ -1,8 +1,8 @@
-
+@ignore
 Feature: Home Work
 
     Background: Preconditions
-        * url apiUrl 
+        * url apiURL
 
     Scenario: Favorite articles
         # Step 1: Get atricles of the global feed

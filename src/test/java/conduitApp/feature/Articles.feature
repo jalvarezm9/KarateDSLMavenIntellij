@@ -1,4 +1,4 @@
-@debug
+
 Feature: Articulos
 
     Background: Definicion de URL
